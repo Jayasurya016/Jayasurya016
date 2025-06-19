@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jayasurya016
 - 👀 I’m interested in IT sectors
-- 🌱 I’m currently learning Java Full Stack
-- 💞️ I’m looking to collaborate on flm
+- 🌱 I’m currently learning MERN Full Stack
+- 💞️ I’m looking to collaborate on IT Companies
 - 📫 How to reach me my jayasurya3025@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
